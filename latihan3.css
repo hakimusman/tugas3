@@ -1,0 +1,38 @@
+.container {
+    width: 800px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.awalan {
+    padding: 20px;
+}
+
+.awalan .judul {
+    font-size: 40px;
+
+}
+
+.awalan ul li {
+    display: inline-block;
+    margin-right: 10px;
+
+}
+
+.awalan a {
+    text-decoration: none;
+    color: blue;
+}
+
+.awalan a:hover {
+    background-color: lightskyblue;
+    color: blue;
+}
+
+.gambar {
+    height: 240px;
+    background-image: url(img/gambar2.jpg);
+    background-size: cover;
+    background-position: 0 -180px;
+
+}
